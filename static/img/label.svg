@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="label.svg"
-   inkscape:export-filename="/home/adrien/Projects/Timeline-pwa/src/assets/header.png"
+   inkscape:export-filename="/home/adrien/Projects/Timeline-element/src/assets/logo.png"
    inkscape:export-xdpi="114.01"
    inkscape:export-ydpi="114.01">
   <defs
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="-29.208503"
-     inkscape:cy="80.096094"
+     inkscape:zoom="1"
+     inkscape:cx="266.0044"
+     inkscape:cy="179.86855"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -88,10 +88,10 @@
        r="74.751289" />
     <path
        style="fill:#000000;fill-opacity:0.41621626;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 64.672413,923.70234 90.957077,49.86742 c 0,0 1.9435,28.94284 -28.73663,55.07814 -29.007296,24.7103 -46.803881,-39.05418 -46.803881,-39.05418 z"
+       d="m 64.672413,923.70234 24.618715,43.96795 17.242332,-8.3968 8.70847,17.3747 c 0,0 -23.315113,10.15821 -38.738157,35.61671 -7.541582,-28.01867 -28.304308,-72.10792 -28.304308,-72.10792 z"
        id="path4160"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccscc" />
+       sodipodi:nodetypes="ccccccc" />
     <g
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text4157"
